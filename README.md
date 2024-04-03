@@ -1,5 +1,5 @@
 Tentang Project
-![Home](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/f68b47d5-314d-449e-9377-b18bcad6eee7)
+![Home](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/bd800345-e16f-4c66-aadb-6457d062ea27)
 Ini adalah website artikel yang saya kembangkan secara mandiri menggunakan framework laravel
 - Menggunakan database MySql
 - Menggunakan PHP
@@ -8,7 +8,7 @@ Ini adalah website artikel yang saya kembangkan secara mandiri menggunakan frame
 
 Terdapat :
 - Home
-  ![Home](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/c151af10-6f2a-409b-9dda-edf3851af118)
+  ![Home](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/ec7405eb-ddb8-4455-8a94-1f387488f06f)
 
 - Detail Artikel
   ![Detail Artikel](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/9ffea423-f4a0-4231-b3b2-906d5b04a109)
