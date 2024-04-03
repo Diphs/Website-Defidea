@@ -8,7 +8,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 
 Route::get('/', function () {
-    return view('admin/form_artikel');
+    return redirect('/home');
 });
 
 Route::get('/home', [IndexController::class, 'index']);
