@@ -26,4 +26,5 @@ Terdapat :
   ![Tambah Artikel](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/dbb40e9f-8ac4-4e0f-b4c8-fd95545e5626)
 
 - Edit Artikel
-  ![Uploading Edit Artikel.png…]()
+  ![Edit Artikel](https://github.com/Diphs/Website-DefideaArtikel/assets/100171465/f8408bda-c7d0-4c38-9aa5-2ff2cd1a0208)
+
